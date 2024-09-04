@@ -13,8 +13,8 @@ I have been part of several companies with different maturity levels in business
 ## 🌱 About me
 I'm from Cachapoal Valley 🍇- Rengo 🍅 - Chile 🇨🇱, and I currently live in the city of Krakow - Poland 🇵🇱.
 
-## 👷🏻‍♂️ I'm dedicated to creating solutions that simplify people's lives.
+## 👷🏻 What do I do?
+I'm dedicated to creating solutions that simplify people's lives.
 
-## 📚 I'm constantly learning about new technologies
-
-## 📫 How to contact me: through my personal email 📧carlos.camartin@gmail.com or my social networks that are here 👈🏻, under my profile picture.
+## 📚 How do I do it?
+I'm constantly learning about new technologies
