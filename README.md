@@ -32,5 +32,5 @@ Service Management: ServiceDesk Plus
 Through my personal email 📧carlos.camartin@gmail.com or my social networks that are here 👈🏻, under my profile picture.
 
 ##
-Thank you for visiting my profile!
+Thank you for visiting my profile!  
 Do not doubt in contacting me by any of the mentioned ways, for consultations or collaboration in future projects.
