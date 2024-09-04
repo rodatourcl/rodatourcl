@@ -18,3 +18,12 @@ I'm dedicated to creating solutions that simplify people's lives.
 
 ## 📚 How do I do it?
 I'm constantly learning about new technologies
+
+## 🚀 Technical skills
+Development Environments: Android Studio, Eclipse, PyCharm, Visual Studio.
+Programming Languages: Java, Kotlin, Python, SQL, etc
+Integration tools: Jenkins, Dockers, SVN, Github
+Test automation tools: Selenium, JUnit, Maven, Jmeter, Postman, Postman,etc
+Database: PostgreSQL, Oracle, DBeaver, SQLite.
+Bugs Tracking: Jira, Bugzilla, Mantis, Rational ClearQuest
+Test management tools: Rational TestManager, TestLink, excel
