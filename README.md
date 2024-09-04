@@ -27,3 +27,6 @@ Test automation tools: Selenium, JUnit, Maven, Jmeter, Postman, Postman,etc
 Database: PostgreSQL, Oracle, DBeaver, SQLite.
 Bugs Tracking: Jira, Bugzilla, Mantis, Rational ClearQuest
 Test management tools: Rational TestManager, TestLink, excel
+
+## 📫 How to contact me?
+Through my personal email 📧carlos.camartin@gmail.com or my social networks that are here 👈🏻, under my profile picture.
