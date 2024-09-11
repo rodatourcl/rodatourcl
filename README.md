@@ -34,7 +34,11 @@ I'm constantly learning about new technologies
 ![ServiceDesk Plus](https://img.shields.io/badge/ServiceDesk_Plus-003D6A?style=for-the-badge&logo=servicenow&logoColor=white&labelColor=101010)
 
 ## 📫 How to contact me?
-Through my personal email 📧carlos.camartin@gmail.com or my social networks that are here 👈🏻, under my profile picture.
+You can reach me through my personal email 📧 carlos.camartin@gmail.com or my social networks above.  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/rodatourcl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/carlosmartinezguzman/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rodatourcl/)
+
 
 ##
 Thank you for visiting my profile!  
