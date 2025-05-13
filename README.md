@@ -3,7 +3,7 @@
 **rodatourcl/rodatourcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 👋 CARLOS MARTINEZ GUZMAN
+## 👋 CARLOS MARTÍNEZ GUZMÁN
 I'm a Computer Engineer, with an extensive background in Information Technology (IT), in areas of Mobile Application Development (Android), Software Quality Assurance, Services and Maintenance.  
 I have been part of teams working in different modalities: Waterfall, V-Model as well as Agile Development Framework (Scrum, Kanban, Lean).  
 I have a strong knowledge of the Systems Development Life Cycle (SDLC) and the Systems Testing Life Cycle (STLC).  
